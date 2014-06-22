@@ -1,0 +1,1 @@
+https://github.com/bjkim/mqtt-svg-dash/issues/new?title=%5Bbug%5D%20name_your_bug&body=%3Ahash%3A%20tag%0D%3Aabc%3A%20OS%20%0A-%20%5B%20%5D%20osx%0A-%20%5B%20%5D%20ios%20%0A-%20%5B%20%5D%20Android%0D%0D%3Aabc%3A%20browser%20%0A-%20%5B%20%5D%20IE%0A-%20%5B%20%5D%20chrome%20%0A-%20%5B%20%5D%20safari%0D%0D%3Arepeat%3A%0D1.%20aaa%0D2.%20bbb
